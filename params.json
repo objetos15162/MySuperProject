@@ -1,6 +1,6 @@
 {
   "name": "Mysuperproject",
   "tagline": "",
-  "body": "### Objetivo\r\nEl objetivo de mi superproyecto es servir como ejemplo para el tutorial de GitHub.\r\n\r\nLa siguiente linea muestra cómo insertar un imagen en la página de mi proyecto.\r\n\r\n",
+  "body": "### Objetivo\r\nEl objetivo de mi superproyecto es servir como ejemplo para el tutorial de GitHub.\r\n\r\nLa siguiente linea muestra cómo insertar un imagen en la página de mi proyecto.\r\n\r\n![Ejemplo de una imagen](https://raw.githubusercontent.com/objetos15162/MySuperProject/master/Proyecto/MySuperGreenfootProject/images/tux.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
